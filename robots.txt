@@ -1,5 +1,5 @@
 User-agent: *
 Disallow: /css/
-
+Allow:https://abdullah-al-sakib.vercel.app
 
 Sitemap: https://abdullah-al-sakib.vercel.app/sitemap.xml
